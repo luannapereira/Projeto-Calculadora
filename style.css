@@ -7,14 +7,14 @@ main{
     margin: 20px auto;
     padding: 20px;
     border: 1px solid black;
-    background-color: #F7D4BC;
+    background-color: #CFA5B4;
     border-radius: 8px;
   }
   
   /* Seletor parente */
   main h2{
     text-align: center;
-    color: #e55934;
+    color: #846B8A;
     font-family: sans-serif;
   }
   
@@ -32,7 +32,7 @@ main{
   button{
     width: 100%;
     font-size: 1.2em;
-    background-color: #e55934;
+    background-color: #846B8A;
     color: white;
     padding: 14px 20px;
     margin: 8px 0px;
